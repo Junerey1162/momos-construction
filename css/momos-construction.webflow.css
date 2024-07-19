@@ -1119,7 +1119,7 @@
 }
 
 .card-front.cleaning-card {
-  background-image: url('../images/MC3.jpeg');
+  background-image: url('../images/MC3_1.webp');
   background-position: 80%;
   background-size: auto 100%;
   justify-content: flex-start;
@@ -1127,7 +1127,7 @@
 }
 
 .card-front.drywall-card {
-  background-image: url('../images/PHOTO-2023-06-16-11-58-15.jpg');
+  background-image: url('../images/');
   background-position: 38% 1%;
   background-size: auto 120%;
   justify-content: flex-start;
@@ -2983,7 +2983,7 @@
 }
 
 .div-block-166 {
-  background-image: url('../images/PHOTO-2023-05-09-10-53-34.jpg');
+  background-image: url('../images/');
   background-position: 50%;
   background-size: 120%;
   width: 50%;
@@ -2991,7 +2991,7 @@
 }
 
 .div-block-167 {
-  background-image: url('../images/PHOTO-2023-06-16-11-56-52.jpg');
+  background-image: url('../images/');
   background-position: 50% 30%;
   background-size: 120%;
   width: 50%;
@@ -3978,7 +3978,7 @@
 
   .div-block-180 {
     background-color: #a7cdf600;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/MC3.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/MC3_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     border-radius: 0;
@@ -3992,7 +3992,7 @@
   }
 
   .div-block-181 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-24-at-1.17.50-PM.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     border-radius: 0;
@@ -4013,27 +4013,27 @@
   }
 
   .div-block-188 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-14-at-16.44.23-1.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-14-at-16.44.23-1_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
   }
 
   .div-block-189 {
     color: var(--white);
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-24-at-12.29.05-PM.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
   }
 
   .div-block-190 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/PHOTO-2023-05-09-10-53-34.jpg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     height: 90%;
   }
 
   .div-block-191 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-11.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-11_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     height: 90%;
@@ -4303,7 +4303,7 @@
   }
 
   .div-block-190 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/PHOTO-2023-05-09-10-53-34.jpg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     height: 90%;
@@ -4838,7 +4838,7 @@
     opacity: 1;
     color: var(--white);
     background-color: #0000;
-    background-image: url('../images/PHOTO-2023-05-09-10-53-34.jpg');
+    background-image: url('../images/');
     background-position: 50%;
     background-size: 100% 0%;
     width: 80%;
@@ -4855,7 +4855,7 @@
   .div-block-180 {
     color: var(--white);
     background-color: #fff;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/MC3.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/MC3_1.webp');
     background-position: 0 0, 100%;
     background-size: auto, auto 100%;
     border-radius: 0;
@@ -4867,7 +4867,7 @@
 
   .div-block-181 {
     color: #fff;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-24-at-1.17.50-PM.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     border-radius: 0;
@@ -4972,7 +4972,7 @@
 
   .div-block-188 {
     color: var(--black);
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-14-at-16.44.23-1.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-14-at-16.44.23-1_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 105%;
     justify-content: center;
@@ -4983,7 +4983,7 @@
   }
 
   .div-block-189 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-24-at-12.29.05-PM.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 0%;
     background-size: auto, auto 100%;
     flex-flow: column;
@@ -4995,7 +4995,7 @@
   }
 
   .div-block-190 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/PHOTO-2023-05-09-10-53-34.jpg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     justify-content: center;
@@ -5008,7 +5008,7 @@
   .div-block-191 {
     grid-column-gap: 25px;
     grid-row-gap: 25px;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-11.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-11_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     flex-flow: column;
