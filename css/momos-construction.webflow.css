@@ -1119,7 +1119,7 @@
 }
 
 .card-front.cleaning-card {
-  background-image: url('../images/MC3_1.webp');
+  background-image: url('../images2/MC3_1.webp');
   background-position: 80%;
   background-size: auto 100%;
   justify-content: flex-start;
@@ -1127,7 +1127,7 @@
 }
 
 .card-front.drywall-card {
-  background-image: url('../images/PHOTO-2023-06-16-11-58-15_1.webp');
+  background-image: url('../images2/PHOTO-2023-06-16-11-58-15_1.webp');
   background-position: 38% 1%;
   background-size: auto 120%;
   justify-content: flex-start;
@@ -3005,7 +3005,7 @@
 }
 
 .div-block-166 {
-  background-image: url('../images/PHOTO-2023-05-09-10-53-34_1.webp');
+  background-image: url('../images2/PHOTO-2023-05-09-10-53-34_1.webp');
   background-position: 50%;
   background-size: 120%;
   width: 50%;
@@ -3013,7 +3013,7 @@
 }
 
 .div-block-167 {
-  background-image: url('../images/PHOTO-2023-06-16-11-56-52_1.webp');
+  background-image: url('../images2/PHOTO-2023-06-16-11-56-52_1.webp');
   background-position: 50% 30%;
   background-size: 120%;
   width: 50%;
@@ -4036,7 +4036,7 @@
 
   .div-block-180 {
     background-color: #a7cdf600;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-7.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images2/WhatsApp-Image-2024-05-06-at-11.35.56-7.jpeg');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
     border-radius: 0;
@@ -4071,14 +4071,14 @@
   }
 
   .div-block-188 {
-    background-image: linear-gradient(#00000080, #00000080), url('../images/apex-17.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images2/apex-17.jpeg');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
   }
 
   .div-block-189 {
     color: var(--white);
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-24-at-12.29.05-PM_1.webp');
+    background-image: linear-gradient(#00000080, #00000080), url('../images2/WhatsApp-Image-2024-05-24-at-12.29.05-PM_1.webp');
     background-position: 0 0, 50%;
     background-size: auto, 100% 100%;
   }
@@ -4907,7 +4907,7 @@
     opacity: 1;
     color: var(--white);
     background-color: #0000;
-    background-image: url('../images/PHOTO-2023-05-09-10-53-34_1.webp');
+    background-image: url('../images2/PHOTO-2023-05-09-10-53-34_1.webp');
     background-position: 50%;
     background-size: 100% 0%;
     width: 80%;
@@ -4924,7 +4924,7 @@
   .div-block-180 {
     color: var(--white);
     background-color: #fff;
-    background-image: linear-gradient(#00000080, #00000080), url('../images/WhatsApp-Image-2024-05-06-at-11.35.56-7.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images2/WhatsApp-Image-2024-05-06-at-11.35.56-7.jpeg');
     background-position: 0 0, 100%;
     background-size: auto, auto 100%;
     border-radius: 0;
@@ -5041,7 +5041,7 @@
 
   .div-block-188 {
     color: var(--black);
-    background-image: linear-gradient(#00000080, #00000080), url('../images/apex-17.jpeg');
+    background-image: linear-gradient(#00000080, #00000080), url('../images2/apex-17.jpeg');
     background-position: 0 0, 50%;
     background-size: auto, 100% 105%;
     justify-content: center;
